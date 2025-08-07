@@ -20,10 +20,10 @@ This project applies unsupervised machine learning techniques — **Isolation Fo
 
 | Metric              | Isolation Forest        | Local Outlier Factor   |
 |---------------------|-------------------------|-------------------------|
-| Accuracy            | 99.78%                  | **99.86%**              |
-| Precision (Fraud)   | 0.14                    | **0.43**                |
-| Recall (Fraud)      | 0.17                    | **0.50**                |
-| F1-Score (Fraud)    | 0.15                    | **0.46**                |
+| Accuracy            | 99.93%                  | **99.87%**              |
+| Precision (Fraud)   | 1.00                   | **0.50**                |
+| Recall (Fraud)      | 0.50                    | **0.50**                |
+| F1-Score (Fraud)    | 0.67                    | **0.50**                |
 
 ## Tools & Libraries
 - Python
